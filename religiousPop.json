@@ -816,7 +816,7 @@
     "jews-22-23": 1968
 }, {
     "code": "cf",
-    "country": "Cen.. African Rep..",
+    "country": "C,African R.",
     "now_chri": 5318700,
     "chri-22": 5318700,
     "chri-22-23": 93000,
@@ -960,7 +960,7 @@
     "jews-22-23": 1248
 }, {
     "code": "cd",
-    "country": "Republic Congo",
+    "country": "R. Congo",
     "now_chri": 5129000,
     "chri-22": 5129000,
     "chri-22-23": 110000,
@@ -1104,7 +1104,7 @@
     "jews-22-23": 1813
 }, {
     "code": "cz",
-    "country": "Czech Republic",
+    "country": "Czech Rep.",
     "now_chri": 2086100,
     "chri-22": 2086100,
     "chri-22-23": -21000,
@@ -1200,7 +1200,7 @@
     "jews-22-23": 712
 }, {
     "code": "do",
-    "country": "Dominican Rep.",
+    "country": "Domi.. Rep.",
     "now_chri": 10520000,
     "chri-22": 10520000,
     "chri-22-23": 100000,
@@ -3264,7 +3264,7 @@
     "jews-22-23": 1345
 }, {
     "code": "pg",
-    "country": "Papua NewGuinea",
+    "country": "P,N.Guinea",
     "now_chri": 9393000,
     "chri-22": 9393000,
     "chri-22-23": 170000,
@@ -4488,7 +4488,7 @@
     "jews-22-23": 578
 }, {
     "code": "gb",
-    "country": "United Kingdom",
+    "country": "UK",
     "now_chri": 36763300,
     "chri-22": 36763300,
     "chri-22-23": -213000,
